@@ -1,0 +1,25 @@
+body {
+    background-color: lightpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
